@@ -154,4 +154,3 @@ Você pode testar os endpoints da API utilizando o [Postman](https://www.postman
 - **Maven**: Gerenciador de dependências e construção do projeto.
 
 ---
-```
