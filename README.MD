@@ -122,12 +122,12 @@ A seguir estão os endpoints disponíveis para interagir com a API de pedidos:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/GuiBichaco/fiap-checkpoint1-.git
    ```
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd fiap-checkpoint1-
    ```
 
 3. Compile e execute o projeto utilizando Maven:
@@ -135,8 +135,9 @@ A seguir estão os endpoints disponíveis para interagir com a API de pedidos:
    mvn spring-boot:run
    ```
 
-4. A API estará rodando em `http://localhost:8080`.
+4. A API estará rodando em `http://localhost:8080/produtos`.
 
+5. O Banco de Dados H2 estará rodando em `http://localhost:8080/h2-console`.
 ---
 
 ## Testes
@@ -153,20 +154,4 @@ Você pode testar os endpoints da API utilizando o [Postman](https://www.postman
 - **Maven**: Gerenciador de dependências e construção do projeto.
 
 ---
-
-## Contribuindo
-
-Para contribuir com este projeto:
-
-1. Faça um **fork** do repositório.
-2. Crie uma **branch** para suas alterações (`git checkout -b minha-nova-feature`).
-3. Faça **commit** das suas alterações (`git commit -am 'Adiciona nova feature'`).
-4. Envie as alterações para o repositório remoto (`git push origin minha-nova-feature`).
-5. Abra um **pull request**.
-
----
-
-## Licença
-
-Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
