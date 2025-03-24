@@ -1,8 +1,7 @@
-```markdown
 # API de Pedidos
 
 Esta API permite o gerenciamento de pedidos de clientes. Desenvolvida com **Spring Boot**, a API oferece operações de CRUD (Criar, Ler, Atualizar, Deletar) para gerenciar os pedidos em um banco de dados.
-```
+
 ## Endpoints
 
 A seguir estão os endpoints disponíveis para interagir com a API de pedidos:
