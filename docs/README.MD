@@ -145,6 +145,7 @@ A seguir estão os endpoints disponíveis para interagir com a API de pedidos:
 Você pode testar os endpoints da API utilizando o [Postman](https://www.postman.com/) ou outra ferramenta semelhante. Utilize os exemplos de requisição e resposta descritos acima para testar as funcionalidades de criar, buscar, atualizar e excluir pedidos.
 
 ## Prints dos testes
+***(Somente o exemplo 1 tem o print de ambos os ambientes, pois é um exemplo onde os dados mudaram, se mudar no postman, irá mudar no Banco de dados e na API)***
 ### 1. Criando um novo pedido
 - Postman
 ![alt text](image.png)
