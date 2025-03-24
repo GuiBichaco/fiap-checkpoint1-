@@ -1,5 +1,3 @@
-Aqui está um exemplo de README para o seu repositório, com explicações detalhadas sobre os endpoints e exemplos de requisições e respostas, formatado em Markdown:
-
 ```markdown
 # API de Pedidos
 
@@ -173,5 +171,3 @@ Para contribuir com este projeto:
 
 Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
-
-Essa descrição fornece as instruções detalhadas sobre como usar os endpoints, incluindo exemplos de requisição e resposta, além de como rodar e contribuir para o projeto.
