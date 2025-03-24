@@ -135,7 +135,7 @@ A seguir estão os endpoints disponíveis para interagir com a API de pedidos:
    mvn spring-boot:run
    ```
 
-4. A API estará rodando em `http://localhost:8080/produtos`.
+4. A API estará rodando em `http://localhost:8080/pedidos`.
 
 5. O Banco de Dados H2 estará rodando em `http://localhost:8080/h2-console`.
 ---
@@ -144,6 +144,34 @@ A seguir estão os endpoints disponíveis para interagir com a API de pedidos:
 
 Você pode testar os endpoints da API utilizando o [Postman](https://www.postman.com/) ou outra ferramenta semelhante. Utilize os exemplos de requisição e resposta descritos acima para testar as funcionalidades de criar, buscar, atualizar e excluir pedidos.
 
+## Prints dos testes
+### 1. Criando um novo pedido
+- Postman
+![alt text](image.png)
+
+- Banco de dados H2
+![alt text](image-1.png)
+
+- API 
+![alt text](image-2.png)
+
+### 2. Buscar todos os pedidos
+- Postman
+![alt text](image-3.png)
+
+### 3. Buscar um pedido pelo ID
+- Postman
+![alt text](image-4.png)
+
+### 4. Atualizar um pedido
+- Postman
+![alt text](image-5.png) 
+
+### 5. Deletar um pedido
+- Postman
+![alt text](image-6.png)
+
+![alt text](image-7.png)
 ---
 
 ## Tecnologias Utilizadas
